@@ -1,7 +1,7 @@
 # student-management-system-jdbc
 # Student Management System using Java JDBC and MySQL
 
-A console-based **Student Management System** developed using **Java**, **JDBC**, and **MySQL**. This application performs CRUD operations (**Create, Read, Update, Delete**) with secure login authentication using **PreparedStatement** to prevent SQL Injection.
+A console-based **Student Management System** developed using **Java**, **JDBC**, and **MySQL**. This application performs CRUD operations (**Create, Read, Update, Delete**)with secure login authentication using **PreparedStatement** to prevent SQL Injection.
 
 ## Technologies Used 
 
