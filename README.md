@@ -34,5 +34,4 @@ A console-based **Student Management System** developed using **Java**, **JDBC**
 
 ## Login Credentials
 
-**Username:** syed
-**Password:** syed123
+
